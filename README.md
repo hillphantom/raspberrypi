@@ -1,4 +1,4 @@
-# raspberrypi scripts
+# Raspberry Pi Stuff
 This is just a repository of Pi related scripts and things, I will try to explain more in each comment as well as the seciotns below 
 # Bridge - Pi to Access point
 This will turn your Pi into an access point as well as enable the ethernet port to connect to another device. This will set up the PI to act
